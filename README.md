@@ -5,7 +5,7 @@
 
 - I’m currently learning **WPF/MVVM**
 
-- I’m currently preparing for my finals **IHK**
+- I’m currently preparing for my finals
 
 - You can reach me at **connorcronau1705@gmail.com**
 
